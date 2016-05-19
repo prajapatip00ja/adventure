@@ -1,2 +1,6 @@
 my name is dolly, age 20, hobby playing.
+<<<<<<< 7b85eb68fb93b0d87327ef15ebaeb01a473b22a2
 new line1
+=======
+i live in nagpur.
+>>>>>>> added a feature in pooja.txt
